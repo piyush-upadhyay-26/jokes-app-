@@ -28,5 +28,5 @@ Consider adding error handling and logging for a more robust application.
 Explore styling the web app with HTML/CSS for a better user experience.
 
 <h2>Screenshots:</h2>
-![image](https://github.com/piyush-upadhyay-26/jokes-app-/assets/137254524/58d37ce4-c83d-41d1-942c-230034a445f4)
+<img src="https://github.com/piyush-upadhyay-26/jokes-app-/assets/137254524/58d37ce4-c83d-41d1-942c-230034a445f4" width = "600"/>
 
